@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RealBlissIO
+- 👀 I’m interested in coding and using linux to the extreme
+- 🌱 I’m currently learning bash scripting
+- 📫 How to reach me here on git hub or on my youtube channel
