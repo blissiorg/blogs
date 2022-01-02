@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @RealBlissIO
 - 👀 I’m interested in coding and using linux to the extreme
 - 🌱 I’m currently learning the rust programming language
-- 📫 How to reach me here on git hub or on my youtube channel
+- 📫 How to reach me here on github or on my youtube channel
