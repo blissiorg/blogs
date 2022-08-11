@@ -1,23 +1,3 @@
-  <head>
-    <style>
-        body{
-            margin-top: 60px;
-            margin-bottom: 100px;
-            margin-right: 150px;
-            margin-left: 80px;
-            color: white;
-            font-family: sans-serif;
-            font-size: large;
-            font-weight: bold;
-            text-align: center;
-            text-decoration: none;
-        }
-        a {
-            text-decoration: none;
-            color: yellow;
-        }
-    </style>
- </head>
  <p align="left"><b><samp>🔴 🟡 🟢</samp></b></p>
  <br>
 
@@ -28,7 +8,7 @@
   </p>
 
 
-<img src="https://github-readme-stats.vercel.app/api?bg_color=12131c&icon_color=afcee0&title_color=d1d1d1&text_color=d1d1d1&border_color=00000000&username=shaolingit&show_icons=true&locale=en&hide=contribs" alt="shaolingit" align="center">
+<img src="https://github-readme-stats.vercel.app/api?bg_color=12131c&icon_color=afcee0&title_color=d1d1d1&text_color=d1d1d1&border_color=00000000&username=shaolingit&show_icons=true&locale=en&hide=contribs" alt="shaolingit" align="center" text-align: center;>
 <br>
 <p align="center"><b><samp> -
  <a href="https://www.reddit.com/r/unixporn">🌙 unixrice </a>
