@@ -8,7 +8,7 @@
   </p>
 
 
-<img src="https://github-readme-stats.vercel.app/api?bg_color=12131c&icon_color=afcee0&title_color=d1d1d1&text_color=d1d1d1&border_color=00000000&username=shaolingit&show_icons=true&locale=en&hide=contribs" alt="shaolingit" align="center" text-align: center;>
+<img src="https://github-readme-stats.vercel.app/api?bg_color=12131c&icon_color=afcee0&title_color=d1d1d1&text_color=d1d1d1&border_color=00000000&username=shaolingit&show_icons=true&locale=en&hide=contribs" alt="shaolingit" align="center" text-align="center">
 <br>
 <p align="center"><b><samp> -
  <a href="https://www.reddit.com/r/unixporn">🌙 unixrice </a>
