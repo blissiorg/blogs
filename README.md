@@ -1,3 +1,23 @@
+  <head>
+    <style>
+        body{
+            margin-top: 60px;
+            margin-bottom: 100px;
+            margin-right: 150px;
+            margin-left: 80px;
+            color: white;
+            font-family: sans-serif;
+            font-size: large;
+            font-weight: bold;
+            text-align: center;
+            text-decoration: none;
+        }
+        a {
+            text-decoration: none;
+            color: yellow;
+        }
+    </style>
+ </head>
  <p align="left"><b><samp>🔴 🟡 🟢</samp></b></p>
  <br>
 
